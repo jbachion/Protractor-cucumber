@@ -9,4 +9,9 @@ protractor+cucumber
 3 - Executar na pasta do projeto baixado o comando "npm install" (instalando as dependências existentes no arquivo package.json)
 
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+*** Para execução dos testes executar o comando: "yarn e2e"
+
+
 
